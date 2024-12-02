@@ -1,0 +1,5 @@
+Customer: Jolyne Cujoh 
+Account: 531-34576-1208-46 
+Reporting Date: 10/18/2024 
+Stock      Open Price      Close Price     Loss      
+TSLA       220.71          220.70          8.92      
